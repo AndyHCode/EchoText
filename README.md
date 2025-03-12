@@ -33,6 +33,11 @@ An iOS application that delivers high-quality, transformer-based text-to-speech 
 8. Build and run on the target device using Xcode by pressing the play icon on the top right
 
 Note: To build on a physical IOS device, you will need to connect the iPhone to a Mac, have a free or paid Apple developer account, and have developer mode enabled on the iPhone which is in the settings app. You will then need to sign the app by clicking on the SherpaOnnxTts on the top left in the file tree view, clicking on "Signing & Capabilities", selecting team (which is your Apple account), and creating a "Bundle Identifier" (ex: com.Andy.SherpaOnnxTts).
+## Preview
+
+![](Documents/images/EchoText%20image%201.png)
+![](Documents/images/EchoText%20image%202.png)
+![](Documents/images/EchoText%20image%203.png)
 
 ## Features
 - **Offline Text-to-Speech Conversion**
@@ -58,6 +63,8 @@ Note: To build on a physical IOS device, you will need to connect the iPhone to 
   - Optional passcode protection
   - Recovery code system
   - Local data encryption
+
+  NOTE: Refer to the ***User Manual*** for more details about the functionality of the app
 
 ## Team
 * **[Kevin Xing](https://github.com/yosunkx)**
