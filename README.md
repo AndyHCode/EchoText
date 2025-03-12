@@ -35,9 +35,9 @@ An iOS application that delivers high-quality, transformer-based text-to-speech 
 Note: To build on a physical IOS device, you will need to connect the iPhone to a Mac, have a free or paid Apple developer account, and have developer mode enabled on the iPhone which is in the settings app. You will then need to sign the app by clicking on the SherpaOnnxTts on the top left in the file tree view, clicking on "Signing & Capabilities", selecting team (which is your Apple account), and creating a "Bundle Identifier" (ex: com.Andy.SherpaOnnxTts).
 ## Preview
 
-![](Documents/images/EchoText%20image%201.png)
-![](Documents/images/EchoText%20image%202.png)
-![](Documents/images/EchoText%20image%203.png)
+<img src="Documents/images/EchoText image 1.png" width="300">
+<img src="Documents/images/EchoText image 2.png" width="300">
+<img src="Documents/images/EchoText image 3.png" width="300">
 
 ## Features
 - **Offline Text-to-Speech Conversion**
